@@ -135,4 +135,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com] or open an issue on GitHub.
+For questions or support, please contact [codewithyeasin@gmail.com] or open an issue on GitHub.
